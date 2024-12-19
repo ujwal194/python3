@@ -1,10 +1,11 @@
 num = 50
 name = "ujwal"
 phone = "98070"
+rupee = 49.33
 
 
-print(type(num))
-print(type(name))
-print(type(phone))
-
+print(num)
+print(name)
+print(phone)
+print(rupee)
 
