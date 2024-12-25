@@ -1,11 +1,10 @@
 num = 50
-name = "ujwal"
-phone = "98070"
-rupee = 49.33
-
+name = "ram"
+age = "19"
 
 print(num)
 print(name)
-print(phone)
-print(rupee)
+print(age)
 
+print(type(name))
+print(type(num))

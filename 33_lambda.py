@@ -9,3 +9,9 @@ print(squared)
 number = [2,4,3,5]
 cube = list(map(lambda x:x**3,number))
 print(cube)
+
+def square(x):
+    print(x)
+    return x*x
+square = 
+    
